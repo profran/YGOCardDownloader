@@ -44,6 +44,12 @@ def use_template():
 					</rdf:RDF>
 				</metadata>
 				<g inkscape:label="layer_1" inkscape:groupmode="layer" id="layer1">
+					<rect style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.28200001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" 
+						id="rect4492"
+				       width="210"
+				       height="297"
+				       x="0"
+				       y="0" />
 					<image y="211" x="0" id="image_1" xlink:href="{0}" preserveAspectRatio="none" height="86" width="60" style="stroke-width:1.85008931" />
 					<image y="211" x="59" id="image_2" xlink:href="{1}" preserveAspectRatio="none" height="86" width="60" style="stroke-width:1.85008931" />
 					<image y="211" x="118" id="image_3" xlink:href="{2}" preserveAspectRatio="none" height="86" width="60" style="stroke-width:1.85008931" />
